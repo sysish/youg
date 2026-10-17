@@ -1,7 +1,0 @@
-{
-  "name": "x4g-worker",
-  "main": "index.js",
-  "compatibility_date": "2025-09-01",
-  // KV باید با اسم "opop" بایند بشه (مثل قبل):
-  // "kv_namespaces": [{ "binding": "opop", "id": "ID_KV_شما" }]
-}
