@@ -1,7 +1,0 @@
-{
-  "name": "x4g-worker",
-  "private": true,
-  "type": "module",
-  "scripts": { "deploy": "wrangler deploy" },
-  "devDependencies": { "wrangler": "^4" }
-}
